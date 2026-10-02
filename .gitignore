@@ -1,0 +1,98 @@
+# ==============================
+# macOS
+# ==============================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# ==============================
+# Editor / IDE files
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==============================
+# OS / temporary files
+# ==============================
+*.tmp
+*.temp
+*.log
+*.bak
+*.orig
+*.cache
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# ==============================
+# R
+# ==============================
+.Rhistory
+.RData
+.Ruserdata
+
+# ==============================
+# Node / Web development
+# ==============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ==============================
+# Build / generated files
+# ==============================
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# ==============================
+# Environment / secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Local configuration
+# ==============================
+*.local
+
+# ==============================
+# Generated exports
+# ==============================
+*.csv~
+*.xlsx~
+*.docx~
+*.pdf~
+
+# ==============================
+# Personal / private files
+# ==============================
+private/
+confidential/
+secrets/
+
+# ==============================
+# Jupyter
+# ==============================
+.ipynb_checkpoints/
