@@ -1,5 +1,5 @@
 Leyna Miyake
-Honolulu, HI | leynam@hawaii.edu | (310) 974-0160 |
+Honolulu, HI | leynam@hawaii.edu |
 OBJECTIVE
 Motivated third-year accounting student at the University of Hawai`i at Mānoa, seeking an accounting
 internship to gain experience in accounting practices and contribute to a collaborative team.
