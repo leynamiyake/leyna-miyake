@@ -1,1 +1,2 @@
 # leyna-miyake
+Hi, my name is Leyna Miyake and I am a third-year student at the University of Hawai'i Mānoa. I'm currently pursuing my Bachelor's degree in Accounting. Once I graduate I plan on pursing my CPA license in the state of Hawai'i or California. Some things that I enjoy to do in my free time is basketball, hiking, eating, and hanging out with friends. Some clubs I am apart of is Beta Alpha Psi and Inter-Business Council. I am employed at UH Mānoa and I work at the NetLab as a computer lab monitor. 
