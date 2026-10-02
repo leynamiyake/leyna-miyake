@@ -1,0 +1,42 @@
+portfolio/
+├── README.md
+├── AGENTS.md
+├── CLAUDE.md
+├── .gitignore
+├── prompt_log.md
+│
+├── resume/
+│   ├── resume.pdf
+│   └── resume.md
+│
+├── portfolio/
+│   ├── accounting/
+│   │   ├── README.md
+│   │   └── projects/
+│   ├── data-analysis/
+│   │   ├── README.md
+│   │   └── projects/
+│   └── coursework/
+│       ├── README.md
+│       └── projects/
+│
+├── projects/
+│   ├── project-01/
+│   │   ├── README.md
+│   │   ├── data/
+│   │   ├── analysis/
+│   │   └── outputs/
+│   └── project-02/
+│       ├── README.md
+│       ├── data/
+│       ├── analysis/
+│       └── outputs/
+│
+├── assets/
+│   ├── images/
+│   └── documents/
+│
+└── website/
+    ├── index.html
+    ├── styles.css
+    └── assets/
