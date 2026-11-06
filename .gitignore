@@ -96,3 +96,7 @@ secrets/
 # Jupyter
 # ==============================
 .ipynb_checkpoints/
+$*.xlsx Thumbs.db
+$*.xlsm Thumbs.db
+$*.docx Thumbs.db
+$*.pptx Thumbs.db
