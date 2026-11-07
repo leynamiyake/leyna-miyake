@@ -1,0 +1,5 @@
+Parity Check: Absolute difference between money market proceeds and forward proceeds must reconcile within rounding tolerances:
+$$\text{ABS}(\text{Proceeds\_MM} - \text{Proceeds\_Forward}) \leq 0.01$$
+Zero Circularity: Spreadsheet engine reports zero circular dependency errors.
+Floor Integrity: At downward spot shocks ($S_T < \text{K\_PUT}$), option net proceeds correctly bottom out at the established floor minus premium cost ($19,208,000$)
+Output Population: Every summary cell is driven strictly by named-range formulas rather than hardcoded values.
