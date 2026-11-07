@@ -13,3 +13,8 @@ K_CALL,1.1170,USD per EUR,Execution Ticket / At-The-Money (Indicative)
 PREM_PUT,0.0194,USD,Derivative Pricing Desk (Indicative)
 PREM_CALL,0.0150,USD,Derivative Pricing Desk (Indicative)
 T_DAYS,182,Days,Contractual Due Date
+Output_Net_Proceeds_Unhedged
+Output_Net_Proceeds_Forward
+Output_Net_Proceeds_MoneyMarket
+Output_Net_Proceeds_Option
+Output_Effective_Hedged_Rate
