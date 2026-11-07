@@ -1,0 +1,8 @@
+Cover: Document metadata, version control, project author, and executive sign-off.
+Legend/Key: Color-coding legend (blue text for hardcoded inputs, black text for formulas, gray fill for summary outputs).
+Inputs: Centralized repository housing the ten named-range parameters and market rates.
+Calculations_Forward: Payout modeling and cash flow schedule for the Forward Contract strategy.
+Calculations_MoneyMarket: Three-step synthetic money market hedge pipeline.
+Calculations_Option: Put option valuation, downside floor ($19,208,000), and premium amortization schedule.
+Sensitivity: Spot price variance analysis ($\pm 5\%$) and multi-strategy comparative proceeds.
+Notes & Assumptions: Explicit day-count conventions, market friction treatments, and risk policy constraints.
