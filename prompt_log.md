@@ -10,18 +10,13 @@ to reproduce useful AI-assisted workflows.
 
 ## Prompt Entry Template
 
-### Project
+### Stage 0
 
 **Project name:**  
-<!-- Name of the project -->
-
+FX Hedging Prompt Stage 0 
 **Date:**  
-<!-- YYYY-MM-DD -->
+<!-- 2026-10-2 -->
 
 **Purpose:**  
-<!-- What were you trying to accomplish? -->
+< Stage 0 focused on initializing the repository and setting up the foundational architecture for the project. The main goal was to establish the basic folder structure (analysis, data, docs), configure essential documentation files like README.md, CLAUDE.md, and prompt_log.md, and set up the Git repository on GitHub to prepare for future development and AI-assisted workflows.  -->
 
-### Prompt
-
-```text
-Paste the prompt used here.
