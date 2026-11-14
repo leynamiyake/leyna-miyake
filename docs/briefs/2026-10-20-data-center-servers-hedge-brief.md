@@ -1,3 +1,8 @@
+Foreign Exchange Hedging - Executive Brief
+To: Chief Financial Officer
+From: Finance Team
+Date: October 29, 2026
+The Problem:
 A U.S. server and networking manufacturer has invoiced an Irish data-center operator, in euros (EUR). The portfolio currently carries a foreign exchange receivable of EUR 17,500,000 due in 182 days, valued at $19,547,500 at the baseline spot rate of 1.1170. If the euro weakens prior to settlement, conversion proceeds will shrink proportionally—such as dropping to $18,375,000 if the spot rate falls to 1.0500—directly eroding corporate operating margins and cash flow stability.
 $$1 + 0.04285 \times \frac{182}{360} = 1 + 0.021663 = 1.021663$$
 $$1 + 0.0259 \times \frac{182}{360} = 1 + 0.013098 = 1.013098$$
