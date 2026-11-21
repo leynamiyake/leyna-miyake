@@ -27,7 +27,16 @@ FX Hedging Prompt Stage 0
 **Project name:**  
 FX Hedging Prompt Stage 1
 **Date:**  
-<!-- 2026-10-2 -->
+<!-- 2026-10-15 -->
+**Date:** October 29, 2026
+
+**Prompt Used:** I asked AI to help me write a 400–600-word executive brief for my FX Hedging project using Scenario 17. I requested an explanation of the foreign exchange risk, a comparison of forward contracts, money-market hedges, and currency options, and a discussion of assumptions, hypotheses, and next steps.
+
+**AI Output:** AI helped create an executive brief explaining how a U.S. server manufacturer faces exchange rate risk from a EUR 17,500,000 receivable due in 182 days. It described the advantages and disadvantages of three hedging strategies and provided a hypothesis about their expected results.
+
+**Verification:** I reviewed the calculations showing how changes in the EUR/USD exchange rate affect the company's U.S. dollar proceeds. I also checked that the brief included the required hedging alternatives, assumptions, hypothesis, and project roadmap.
+
+**Reflection:** Using AI helped me better understand foreign exchange exposure and how different hedging strategies can protect a company's cash flow. I learned that forward contracts provide certainty, money-market hedges use borrowing and investing, and options provide protection while allowing potential gains. AI was useful for organizing my ideas and explaining financial concepts clearly.
 
 
 ### Stage 3
